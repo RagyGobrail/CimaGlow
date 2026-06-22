@@ -1,0 +1,8 @@
+{
+  "name": "CimaGlow",
+  "description": "A dark cinematic movie discovery platform inspired by modern streaming applications, featuring custom navigation, beautiful carousels, trailers, favorites, watchlist, and TMDB compatibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
